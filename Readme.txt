@@ -1,6 +1,4 @@
 STUDENT : Kumar Sindhurakshit
-STUDENT ID : 200854641
-EMAIL : k.sindhurakshit@se21.qmul.ac.uk
 Package : ar_week5_test
 
 OVERVIEW : This package is developed to demonstrate development of basic ROS programming and creating package  for distribution. It consist four nodes to generated random points, compute coeficients service, planning trajectory, and a ploter to plot position, veleocity, and acceleration using rqt topics. 
