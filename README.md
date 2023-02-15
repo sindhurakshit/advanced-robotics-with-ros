@@ -1,4 +1,4 @@
-# advanced-robotics-with-ros
+# Advanced Robotics with RoS
 Basic framework for ros programming covering services, messages, publishing and reading from topics, pakage creation etc in python
 Package : ar_week5_test
 
